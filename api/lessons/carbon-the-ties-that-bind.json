@@ -1,0 +1,18 @@
+{
+  "active": true,
+  "provider": "the-public-good",
+  "title": "Carbon - the ties that bind",
+  "slug": "carbon-the-ties-that-bind",
+  "source": "https://www.the-public-good.com/carbon",
+  "unranked": [
+    {
+      "text": "What is the atomic number of carbon?",
+      "listCount": 1,
+      "items": [
+        {
+          "name": "6"
+        }
+      ]
+    }
+  ]
+}
